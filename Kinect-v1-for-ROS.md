@@ -42,6 +42,12 @@ cd x64
 sudo bash install.sh
 ```
 
+## Step 4: Launch
+Open your terminal (`Ctrl+Atl+T`) and run the following commands
+```bash
+roslaunch openni_launch openni.launch
+rosrun openni_tracker openni_tracker
+```
 
 ## Potential Issuies
 1. If you get the following error, you might not have installed the correct version of NiTE. Try installing it again. Try x86 instead or x64.
