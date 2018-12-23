@@ -48,9 +48,9 @@ sudo bash install.sh
 ```
 NITE is likely missing: Please install NITE >= 1.5.2.21. Check the readme for download information. Error Info: User generator failed: Can't create any node of the requested type!
 ```
-Alternatively, you can try installing NiTE2.2 from the link at the bottom.
+Alternatively, you can try installing NiTE2.2 from the link at the bottom.  
 2. If you have also installed SensorKinect following [this blog](https://www.20papercups.net/programming/kinect-on-ubuntu-with-openni/), you might run into some error (where 2 devices are shown to be connected) while trying to run `openni_launch`. To resolve this issue, see [this link](https://github.com/PrimeSense/Sensor/issues/13)  
-3. For other issues, try checking the following links:
+3. For other issues, try checking the following links:  
 [https://github.com/arnaud-ramey/NITE-Bin-Dev-Linux-v1.5.2.23](https://github.com/arnaud-ramey/NITE-Bin-Dev-Linux-v1.5.2.23)  
 [https://github.com/ros-drivers/openni_tracker](https://github.com/ros-drivers/openni_tracker)  
 [http://wiki.ros.org/openni_camera](http://wiki.ros.org/openni_camera)  
