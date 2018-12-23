@@ -56,9 +56,10 @@ NITE is likely missing: Please install NITE >= 1.5.2.21. Check the readme for do
 ```
 Alternatively, you can try installing NiTE2.2 from the link at the bottom.  
 2. If you have also installed SensorKinect following [this blog](https://www.20papercups.net/programming/kinect-on-ubuntu-with-openni/), you might run into some error (where 2 devices are shown to be connected) while trying to run `openni_launch`. To resolve this issue, see [this link](https://github.com/PrimeSense/Sensor/issues/13)  
-3. For other issues, try checking the following links:  
-[https://github.com/arnaud-ramey/NITE-Bin-Dev-Linux-v1.5.2.23](https://github.com/arnaud-ramey/NITE-Bin-Dev-Linux-v1.5.2.23)  
-[https://github.com/ros-drivers/openni_tracker](https://github.com/ros-drivers/openni_tracker)  
-[http://wiki.ros.org/openni_camera](http://wiki.ros.org/openni_camera)  
-[http://wiki.ros.org/openni_launch](http://wiki.ros.org/openni_launch)  
-[OpenNI2 and NiTE2.2](https://github.com/roboticslab-uc3m/installation-guides/blob/master/install-openni-nite.md)  
+3. For other issues and references, try checking the following links:  
+* [NITE-Bin-Dev-Linux-v1.5.2.23](https://github.com/arnaud-ramey/NITE-Bin-Dev-Linux-v1.5.2.23)  
+* [openni_tracker](http://wiki.ros.org/openni_tracker)  
+* [openni_camera](http://wiki.ros.org/openni_camera)  
+* [openni_launch](http://wiki.ros.org/openni_launch)  
+* [OpenNI2 and NiTE2.2](https://github.com/roboticslab-uc3m/installation-guides/blob/master/install-openni-nite.md)  
+* [Overlay skeleton with point cloud](https://github.com/jstnhuang/cse481c_tutorials/wiki/How-to-run-openni_tracker)  
