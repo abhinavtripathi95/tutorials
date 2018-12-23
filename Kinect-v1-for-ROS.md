@@ -62,4 +62,5 @@ Alternatively, you can try installing NiTE2.2 from the link at the bottom.
 * [openni_camera](http://wiki.ros.org/openni_camera)  
 * [openni_launch](http://wiki.ros.org/openni_launch)  
 * [OpenNI2 and NiTE2.2](https://github.com/roboticslab-uc3m/installation-guides/blob/master/install-openni-nite.md)  
-* [Overlay skeleton with point cloud](https://github.com/jstnhuang/cse481c_tutorials/wiki/How-to-run-openni_tracker)  
+* [Overlay skeleton with point cloud](https://github.com/jstnhuang/cse481c_tutorials/wiki/How-to-run-openni_tracker) 
+* [Another Similar Tutorial](https://github.com/daniel-s-ingram/uarm_kinect) 
