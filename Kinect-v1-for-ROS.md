@@ -49,7 +49,7 @@ roslaunch openni_launch openni.launch
 rosrun openni_tracker openni_tracker
 ```
 
-## Potential Issuies
+## Potential Issues
 1. If you get the following error, you might not have installed the correct version of NiTE. Try installing it again. Try x86 instead or x64.
 ```
 NITE is likely missing: Please install NITE >= 1.5.2.21. Check the readme for download information. Error Info: User generator failed: Can't create any node of the requested type!
